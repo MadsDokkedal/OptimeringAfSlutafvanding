@@ -8,3 +8,5 @@ I forbindelse med specialeprojektet kan der på denne side findes relevante doku
 ”Tørstofindhold i slamprøver fra laboratorieforsøg.xlsx” - Denne Excel-fil indeholder målinger af tørstofindhold i slamprøver fra laboratorieforsøgene gennem projektperioden med de forskellige anvendte polymertyper.
 
 ”Medianfiler til resultater fra afvandingsforsøg.rar” - Medianfilerne i Excel er anvendt til at udarbejde resultater i forbindelse med at afbilde afvandingen og tørstofudviklingen af slamprøver over tid.
+
+”Cost-benefit analyse ved implementering af PIX-113.xlsx” – Denne Excel-fil indeholder de beregnede værdier til projektets cost-benefit analyse ved implementering af PIX-113 i forbindelse med slutafvandingsprocessen og polymerdosering.
